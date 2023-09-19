@@ -1,8 +1,6 @@
 
 # HA19092023: Cloud Native Programming Practice
 
-![GitHub last commit](https://img.shields.io/github/last-commit/eric2122/HA19092023)
-![GitHub issues](https://img.shields.io/github/issues/eric2122/HA19092023)
 
 Ein umfassendes Repository mit Materialien und Codebeispielen für verschiedene Technologiebereiche.
 
