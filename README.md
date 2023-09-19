@@ -6,10 +6,7 @@
 <p align="center">
   Ein umfassendes Repository mit Materialien und Codebeispielen für verschiedene Technologiebereiche.
 </p>
-📚 Inhaltsverzeichnis
-Über das Projekt
-Verzeichnisse
-Kontakt
+
 🚀 Über das Projekt
 Dieses Repository enthält Materialien und Codebeispiele für verschiedene Technologiebereiche, einschließlich Cloud Native Programming, AWS Jumpstart, Coding-Praktiken und Linux-Grundlagen.
 
